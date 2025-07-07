@@ -120092,7 +120092,5 @@
 [/zzzyyy.com/]123.123.123.123
 [/zzzzaaaa.com/]123.123.123.123
 [/zzzzzz.me/]123.123.123.123
-https://cloudflare-dns.com/dns-query
-tls://one.one.one.one
-https://dns.google/dns-query
-tls://dns.google
+1.0.0.1
+8.8.4.4

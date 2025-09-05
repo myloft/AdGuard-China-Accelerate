@@ -118032,5 +118032,4 @@
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]123.123.123.123
 [/www.apple.com/]123.123.123.123
 [/xp.apple.com/]123.123.123.123
-1.0.0.1
-8.8.4.4
+

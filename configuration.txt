@@ -7060,6 +7060,7 @@
 [/66good.com/]123.123.123.123
 [/66han.com/]123.123.123.123
 [/66huigo.com/]123.123.123.123
+[/66ika.com/]123.123.123.123
 [/66in.net/]123.123.123.123
 [/66jiedai.com/]123.123.123.123
 [/66l.cc/]123.123.123.123
@@ -11779,6 +11780,7 @@
 [/amzcaptain.com/]123.123.123.123
 [/amzcfo.com/]123.123.123.123
 [/amzdh.com/]123.123.123.123
+[/amzkeys.com/]123.123.123.123
 [/amzmm.com/]123.123.123.123
 [/amzndns-cn.biz/]123.123.123.123
 [/amzndns-cn.com/]123.123.123.123
@@ -12524,6 +12526,7 @@
 [/applethome.com/]123.123.123.123
 [/appletuan.com/]123.123.123.123
 [/applex.net/]123.123.123.123
+[/applezhang.com/]123.123.123.123
 [/applinzi.com/]123.123.123.123
 [/applm.com/]123.123.123.123
 [/applogcdn.com/]123.123.123.123
@@ -17526,6 +17529,7 @@
 [/bpec.com/]123.123.123.123
 [/bpgjuice.net/]123.123.123.123
 [/bphxmc.xyz/]123.123.123.123
+[/bpmlt.com/]123.123.123.123
 [/bpmuseum.com/]123.123.123.123
 [/bppan.com/]123.123.123.123
 [/bpqwxsh.com/]123.123.123.123
@@ -19617,6 +19621,7 @@
 [/cdfuwuqi.com/]123.123.123.123
 [/cdgas.com/]123.123.123.123
 [/cdgdad.com/]123.123.123.123
+[/cdgdp.com/]123.123.123.123
 [/cdggq.com/]123.123.123.123
 [/cdggzy.com/]123.123.123.123
 [/cdgjbus.com/]123.123.123.123
@@ -26649,6 +26654,7 @@
 [/cszkzn.com/]123.123.123.123
 [/cszlgs.com/]123.123.123.123
 [/cszn120.com/]123.123.123.123
+[/cszpra.com/]123.123.123.123
 [/cszsjy.com/]123.123.123.123
 [/cszsths.com/]123.123.123.123
 [/csztv.com/]123.123.123.123
@@ -28398,6 +28404,7 @@
 [/dcwucu.com/]123.123.123.123
 [/dcxnews.com/]123.123.123.123
 [/dcxx.vip/]123.123.123.123
+[/dcxzmxa.com/]123.123.123.123
 [/dcybkj.com/]123.123.123.123
 [/dcyiyao.com/]123.123.123.123
 [/dcyjc.com/]123.123.123.123
@@ -38735,6 +38742,7 @@
 [/gjjnhb.com/]123.123.123.123
 [/gjjsbz.com/]123.123.123.123
 [/gjkdwl.com/]123.123.123.123
+[/gjl15.com/]123.123.123.123
 [/gjlease.com/]123.123.123.123
 [/gjmbwxpt.com/]123.123.123.123
 [/gjmbwxzx.com/]123.123.123.123
@@ -47434,6 +47442,7 @@
 [/hnrich.net/]123.123.123.123
 [/hnrmb.com/]123.123.123.123
 [/hnrmtjg.com/]123.123.123.123
+[/hnrmzy.com/]123.123.123.123
 [/hnrpc.com/]123.123.123.123
 [/hnrsks.com/]123.123.123.123
 [/hnrszhjc.com/]123.123.123.123
@@ -53812,6 +53821,7 @@
 [/ixzzcgl.com/]123.123.123.123
 [/iy-cd.com/]123.123.123.123
 [/iy51.com/]123.123.123.123
+[/iyamusic.com/]123.123.123.123
 [/iyangxi.com/]123.123.123.123
 [/iyaou.com/]123.123.123.123
 [/iyatt.com/]123.123.123.123
@@ -55413,6 +55423,7 @@
 [/jijidi.com/]123.123.123.123
 [/jijie168.com/]123.123.123.123
 [/jijigugu.club/]123.123.123.123
+[/jijijijin.com/]123.123.123.123
 [/jijing.site/]123.123.123.123
 [/jijinhao.com/]123.123.123.123
 [/jijitec.com/]123.123.123.123
@@ -56257,6 +56268,7 @@
 [/jixiang-tech.com/]123.123.123.123
 [/jixiang800.com/]123.123.123.123
 [/jixiangjili.com/]123.123.123.123
+[/jixiangnh.com/]123.123.123.123
 [/jixiangyou.com/]123.123.123.123
 [/jixianku.com/]123.123.123.123
 [/jixiao100.com/]123.123.123.123
@@ -56969,6 +56981,7 @@
 [/joshua317.com/]123.123.123.123
 [/jotop.com/]123.123.123.123
 [/jotop.net/]123.123.123.123
+[/jotrin.com/]123.123.123.123
 [/jouav.com/]123.123.123.123
 [/jouder.com/]123.123.123.123
 [/joudou.com/]123.123.123.123
@@ -57047,6 +57060,7 @@
 [/joywok.com/]123.123.123.123
 [/joyxv.com/]123.123.123.123
 [/joyy.com/]123.123.123.123
+[/joyyan.com/]123.123.123.123
 [/joyyang.com/]123.123.123.123
 [/joyyinc.com/]123.123.123.123
 [/joyyued.com/]123.123.123.123
@@ -62232,6 +62246,7 @@
 [/leadzees.com/]123.123.123.123
 [/leaferjs.com/]123.123.123.123
 [/leaforbook.com/]123.123.123.123
+[/leaftools.net/]123.123.123.123
 [/leafword.com/]123.123.123.123
 [/leagcard.com/]123.123.123.123
 [/leagpoint.com/]123.123.123.123
@@ -64848,6 +64863,7 @@
 [/lsqmx.com/]123.123.123.123
 [/lsqpay.com/]123.123.123.123
 [/lsqqy.com/]123.123.123.123
+[/lsqv.com/]123.123.123.123
 [/lsqx.com/]123.123.123.123
 [/lsqy398.com/]123.123.123.123
 [/lsrbs.net/]123.123.123.123
@@ -66700,6 +66716,7 @@
 [/matrix-net.tech/]123.123.123.123
 [/matrixchuang.com/]123.123.123.123
 [/matrixerse.com/]123.123.123.123
+[/matrixscrm.com/]123.123.123.123
 [/matrixsens.com/]123.123.123.123
 [/matsubayashi-op.com/]123.123.123.123
 [/matsuri.icu/]123.123.123.123
@@ -67197,6 +67214,7 @@
 [/meijiedaka.com/]123.123.123.123
 [/meijiehang.com/]123.123.123.123
 [/meijiehezi.com/]123.123.123.123
+[/meijieku.com/]123.123.123.123
 [/meijiequan.com/]123.123.123.123
 [/meijieu.com/]123.123.123.123
 [/meijiexia.com/]123.123.123.123
@@ -67348,6 +67366,7 @@
 [/meitumail.com/]123.123.123.123
 [/meitumob.com/]123.123.123.123
 [/meitumobile.com/]123.123.123.123
+[/meitumv.com/]123.123.123.123
 [/meitun.com/]123.123.123.123
 [/meituncdn.com/]123.123.123.123
 [/meitupaipai.com/]123.123.123.123
@@ -74764,6 +74783,7 @@
 [/pbtt.net/]123.123.123.123
 [/pbtxt.com/]123.123.123.123
 [/pbyz.net/]123.123.123.123
+[/pbzhl.com/]123.123.123.123
 [/pc-120.com/]123.123.123.123
 [/pc-daily.com/]123.123.123.123
 [/pc.wiki/]123.123.123.123
@@ -77252,6 +77272,7 @@
 [/qhtui.com/]123.123.123.123
 [/qhtycp.com/]123.123.123.123
 [/qhtyzx.com/]123.123.123.123
+[/qhuah.com/]123.123.123.123
 [/qhupdate.com/]123.123.123.123
 [/qhwmw.com/]123.123.123.123
 [/qhwptyn.com/]123.123.123.123
@@ -81015,6 +81036,7 @@
 [/ruijiehuanbao.com/]123.123.123.123
 [/ruijienetworks.com/]123.123.123.123
 [/ruijiery.com/]123.123.123.123
+[/ruijieyun.com/]123.123.123.123
 [/ruijinginfo.com/]123.123.123.123
 [/ruijinintl.com/]123.123.123.123
 [/ruijinyy.com/]123.123.123.123
@@ -81147,6 +81169,7 @@
 [/runzi.cc/]123.123.123.123
 [/ruochu.com/]123.123.123.123
 [/ruodian360.com/]123.123.123.123
+[/ruofeisinian.com/]123.123.123.123
 [/ruohang.com/]123.123.123.123
 [/ruohuo.net/]123.123.123.123
 [/ruokuai.com/]123.123.123.123
@@ -84544,6 +84567,7 @@
 [/shijian.org/]123.123.123.123
 [/shijiancn.com/]123.123.123.123
 [/shijianla.com/]123.123.123.123
+[/shijianping.com/]123.123.123.123
 [/shijiaok.com/]123.123.123.123
 [/shijicloud.com/]123.123.123.123
 [/shijie2.com/]123.123.123.123
@@ -89916,6 +89940,7 @@
 [/szhome.com/]123.123.123.123
 [/szhomeimg.com/]123.123.123.123
 [/szhongshe.com/]123.123.123.123
+[/szhospital.com/]123.123.123.123
 [/szhot.com/]123.123.123.123
 [/szhq.com/]123.123.123.123
 [/szhqgf.com/]123.123.123.123
@@ -91006,6 +91031,7 @@
 [/taotu8.net/]123.123.123.123
 [/taou.com/]123.123.123.123
 [/taourl.com/]123.123.123.123
+[/taowangzhan.com/]123.123.123.123
 [/taoweng.site/]123.123.123.123
 [/taoxiangyoushu.com/]123.123.123.123
 [/taoxiaolu.com/]123.123.123.123
@@ -95333,6 +95359,7 @@
 [/unlimax.com/]123.123.123.123
 [/unlimithealth.com/]123.123.123.123
 [/unlitui.com/]123.123.123.123
+[/unlsycn.com/]123.123.123.123
 [/unmou.com/]123.123.123.123
 [/unn114.com/]123.123.123.123
 [/unncahs.net/]123.123.123.123
@@ -99477,6 +99504,7 @@
 [/wingconn.com/]123.123.123.123
 [/winglinetrans.com/]123.123.123.123
 [/winglungbank.com/]123.123.123.123
+[/wingmob.com/]123.123.123.123
 [/wingon-travel.com/]123.123.123.123
 [/wingsbook.com/]123.123.123.123
 [/wingtecher.com/]123.123.123.123
@@ -99776,6 +99804,7 @@
 [/wllxcl.com/]123.123.123.123
 [/wllxx.com/]123.123.123.123
 [/wllxy.net/]123.123.123.123
+[/wlmf.vip/]123.123.123.123
 [/wlmq.com/]123.123.123.123
 [/wlmqedu.com/]123.123.123.123
 [/wlmqhytd.com/]123.123.123.123
@@ -100068,6 +100097,7 @@
 [/womeimenye.com/]123.123.123.123
 [/women-heart.com/]123.123.123.123
 [/womenjie.com/]123.123.123.123
+[/womenofchina.com/]123.123.123.123
 [/wonadea.com/]123.123.123.123
 [/wonder-link.net/]123.123.123.123
 [/wonder.wiki/]123.123.123.123
@@ -100737,6 +100767,7 @@
 [/wumii.tv/]123.123.123.123
 [/wuming.com/]123.123.123.123
 [/wupdec.com/]123.123.123.123
+[/wupk.com/]123.123.123.123
 [/wuqi-micro.com/]123.123.123.123
 [/wuqing.cc/]123.123.123.123
 [/wuqiong.info/]123.123.123.123
@@ -101826,6 +101857,7 @@
 [/xcwhjj.com/]123.123.123.123
 [/xcx-x.com/]123.123.123.123
 [/xcxd-inc.com/]123.123.123.123
+[/xcxd1997.com/]123.123.123.123
 [/xcxjpd.com/]123.123.123.123
 [/xcxvs.com/]123.123.123.123
 [/xcxwo.com/]123.123.123.123
@@ -104691,6 +104723,7 @@
 [/xn--xhqs8jmxkive1yest6g.com/]123.123.123.123
 [/xn--xhqs8jp0kpz2d.net/]123.123.123.123
 [/xn--xhqx10kr8o.com/]123.123.123.123
+[/xn--xkr190gv5p.com/]123.123.123.123
 [/xn--xkr26fp82clgt.com/]123.123.123.123
 [/xn--xkr999cp4fv97a.com/]123.123.123.123
 [/xn--xkrs9ba41r.com/]123.123.123.123
@@ -107851,6 +107884,7 @@
 [/yinka.co/]123.123.123.123
 [/yinlimedia.com/]123.123.123.123
 [/yinlingshuyuan.com/]123.123.123.123
+[/yinlvaa.com/]123.123.123.123
 [/yinmakeji.com/]123.123.123.123
 [/yinmaojx.com/]123.123.123.123
 [/yinmishu.com/]123.123.123.123
@@ -108976,6 +109010,7 @@
 [/youbeichefu.com/]123.123.123.123
 [/youbian.com/]123.123.123.123
 [/youbibi.com/]123.123.123.123
+[/youbike.me/]123.123.123.123
 [/youbikecn.com/]123.123.123.123
 [/youbohe.com/]123.123.123.123
 [/youboy.net/]123.123.123.123
@@ -109104,6 +109139,8 @@
 [/youlechuhai.com/]123.123.123.123
 [/youlecn.com/]123.123.123.123
 [/youleliwu.com/]123.123.123.123
+[/youlesp.com/]123.123.123.123
+[/youletd.com/]123.123.123.123
 [/youleyou.com/]123.123.123.123
 [/youlian.fun/]123.123.123.123
 [/youlianfuwu.com/]123.123.123.123
@@ -110987,6 +111024,7 @@
 [/yxzhi.com/]123.123.123.123
 [/yxzoo.com/]123.123.123.123
 [/yxzp.net/]123.123.123.123
+[/yxzq.com/]123.123.123.123
 [/yxzu.com/]123.123.123.123
 [/yxzxgy.com/]123.123.123.123
 [/yxzzd.com/]123.123.123.123
